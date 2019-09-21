@@ -1,0 +1,11 @@
+E:\github\FastSnakeGame\FastSnakeGame\bin\Debug\netcoreapp2.2\FastSnakeGame.deps.json
+E:\github\FastSnakeGame\FastSnakeGame\bin\Debug\netcoreapp2.2\FastSnakeGame.runtimeconfig.json
+E:\github\FastSnakeGame\FastSnakeGame\bin\Debug\netcoreapp2.2\FastSnakeGame.runtimeconfig.dev.json
+E:\github\FastSnakeGame\FastSnakeGame\bin\Debug\netcoreapp2.2\FastSnakeGame.dll
+E:\github\FastSnakeGame\FastSnakeGame\bin\Debug\netcoreapp2.2\FastSnakeGame.pdb
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.csprojAssemblyReference.cache
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.csproj.CoreCompileInputs.cache
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.AssemblyInfoInputs.cache
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.AssemblyInfo.cs
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.dll
+E:\github\FastSnakeGame\FastSnakeGame\obj\Debug\netcoreapp2.2\FastSnakeGame.pdb
